@@ -53,3 +53,9 @@ button{
   z-index: 1;
   width: 100%;
 }
+
+
+.buttonContainerClass{
+  display: flex;
+  justify-content: center;
+}
