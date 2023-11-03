@@ -27,7 +27,7 @@ function App() {
         <button onClick={() => handleButtonClick(2160, 1080)}>Open Camera 2160x1080</button>
         <button onClick={() => handleButtonClick(720, 720)}>Open Camera 720x720</button>
         <button onClick={() => handleButtonClick(1080, 2160)}>Open Camera 1080x2160</button>
-        <button onClick={() => handleButtonClick(1920, 1080)}>Open Camera 1920 x 1080</button>
+        <button onClick={() => handleButtonClick(1080, 1920)}>Open Camera 1920 x 1080</button>
 
       </div>
       <style>{videoClass}</style>
